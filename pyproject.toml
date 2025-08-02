@@ -1,5 +1,5 @@
 [project]
-name = "snow"
+name = "snow_pbc"
 description = "Integrated tool for structural characterization at atomistic level"
 readme = "README.md"
 version = "0.0.1a"
